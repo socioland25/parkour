@@ -1,0 +1,21 @@
+{
+  "main:root": {
+    "criteria": {
+      "root": "2025-12-24 17:35:32 +0000"
+    },
+    "done": true
+  },
+  "main:easter_eggs/root": {
+    "criteria": {
+      "root": "2025-12-24 17:35:32 +0000"
+    },
+    "done": true
+  },
+  "time:root": {
+    "criteria": {
+      "root": "2025-12-24 17:35:32 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}

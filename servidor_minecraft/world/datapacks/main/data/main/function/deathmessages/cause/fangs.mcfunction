@@ -1,0 +1,2 @@
+execute if score #random value matches 1..10 run tellraw @a [{selector:"@s"},{text:" was eaten alive"}]
+execute if score #random value matches 11..15 run tellraw @a [{selector:"@s"},{text:" was devoured"}]

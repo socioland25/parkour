@@ -1,0 +1,1 @@
+advancement grant @a[gamemode=!spectator,scores={level=51}] only main:50percent

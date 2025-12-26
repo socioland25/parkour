@@ -1,0 +1,45 @@
+{
+  "main:root": {
+    "criteria": {
+      "root": "2025-12-25 05:21:13 +0000"
+    },
+    "done": true
+  },
+  "main:easter_eggs/root": {
+    "criteria": {
+      "root": "2025-12-25 05:21:13 +0000"
+    },
+    "done": true
+  },
+  "time:root": {
+    "criteria": {
+      "root": "2025-12-25 05:21:13 +0000"
+    },
+    "done": true
+  },
+  "main:start": {
+    "criteria": {
+      "root": "2025-12-25 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "main:level22_trap": {
+    "criteria": {
+      "0": "2025-12-25 06:16:56 +0000"
+    },
+    "done": true
+  },
+  "main:firstsnake": {
+    "criteria": {
+      "0": "2025-12-25 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "main:lava": {
+    "criteria": {
+      "0": "2025-12-25 06:57:46 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}

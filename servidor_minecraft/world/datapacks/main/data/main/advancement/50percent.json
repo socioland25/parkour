@@ -1,0 +1,19 @@
+{
+    "parent": "main:lava",
+    "display": {
+        "title": {text:"Halfway there",color:"yellow",bold:true},
+        "description": {text:"Complete 50% of Parkour Pyramid",color:"white",bold:false},
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden":true
+    },
+    "criteria": {
+        "elytra": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

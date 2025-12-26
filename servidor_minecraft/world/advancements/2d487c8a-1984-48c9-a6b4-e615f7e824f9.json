@@ -1,0 +1,81 @@
+{
+  "main:root": {
+    "criteria": {
+      "root": "2025-12-25 04:31:03 +0000"
+    },
+    "done": true
+  },
+  "main:easter_eggs/root": {
+    "criteria": {
+      "root": "2025-12-25 04:31:03 +0000"
+    },
+    "done": true
+  },
+  "time:root": {
+    "criteria": {
+      "root": "2025-12-25 04:31:03 +0000"
+    },
+    "done": true
+  },
+  "main:start": {
+    "criteria": {
+      "root": "2025-12-25 04:34:07 +0000"
+    },
+    "done": true
+  },
+  "main:easter_eggs/another_way": {
+    "criteria": {
+      "0": "2025-12-25 04:36:41 +0000"
+    },
+    "done": true
+  },
+  "main:level22_trap": {
+    "criteria": {
+      "0": "2025-12-25 06:16:56 +0000"
+    },
+    "done": true
+  },
+  "main:firstsnake": {
+    "criteria": {
+      "0": "2025-12-25 06:21:19 +0000"
+    },
+    "done": true
+  },
+  "main:lava": {
+    "criteria": {
+      "0": "2025-12-25 06:57:40 +0000"
+    },
+    "done": true
+  },
+  "main:slime": {
+    "criteria": {
+      "0": "2025-12-26 05:15:37 +0000"
+    },
+    "done": true
+  },
+  "main:50percent": {
+    "criteria": {
+      "elytra": "2025-12-26 04:10:18 +0000"
+    },
+    "done": true
+  },
+  "main:easter_eggs/lava_diamonds": {
+    "criteria": {
+      "0": "2025-12-26 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "main:underground_city": {
+    "criteria": {
+      "0": "2025-12-26 04:36:29 +0000"
+    },
+    "done": true
+  },
+  "main:redstone_city": {
+    "criteria": {
+      "0": "2025-12-26 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}

@@ -1,0 +1,37 @@
+{
+    "display": {
+        "title": {
+            "text": "Parkour Pyramid",
+            "color": "white",
+            "bold": true
+        },
+        "description": {
+            "text": "A map by Hielke",
+            "color": "white",
+            "bold":false
+        },
+        "icon": {
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NDczOTA5ODUxMywKICAicHJvZmlsZUlkIiA6ICJjZTU2NjliN2YzZWY0ZWNlOTVmZDFiYjFkYjQxODFmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIaWVsa2UiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzE3NmM2Mzk3N2I0YTQ1ZDAyMTRhZGFlZGYwOGU5NjJhNTI5MDI4YTE0NDU2NTY1MjI3YTE4ZjA0Yzg4MDNlMyIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTc5MTI3OTBmZjE2NGI5MzE5NmYwOGJhNzFkMGU2MjEyOTMwNDc3NmQwZjM0NzMzNGY4YTZlYWU1MDlmOGE1NiIKICAgIH0KICB9Cn0"
+                    }
+                  ]
+                }
+              }
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:gui/advancements/backgrounds/adventure"
+    },
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

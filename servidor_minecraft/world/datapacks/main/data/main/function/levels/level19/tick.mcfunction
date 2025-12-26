@@ -1,0 +1,1 @@
+advancement grant @a[gamemode=!spectator,x=125,y=19,z=293,dx=-24,dy=7,dz=22] only main:easter_eggs/monster

@@ -1,0 +1,2 @@
+execute if entity @a[x=47,y=102,z=213,dx=0,dy=6.1875,dz=0] if block 47 109 213 minecraft:iron_trapdoor[facing=west,half=bottom,open=false] run function main:levels/level91/trapdooropen
+execute unless entity @a[x=47,y=102,z=213,dx=0,dy=6.1875,dz=0] if block 47 109 213 minecraft:iron_trapdoor[facing=west,half=bottom,open=true] run function main:levels/level91/trapdoorclose

@@ -1,0 +1,6 @@
+tag @e[type=marker,name=console] add credit
+tellraw @p [{text:"            ",color:"yellow",strikethrough: true},{text:" INFO ",strikethrough: false,color: "yellow",bold: true},{text:"           ",strikethrough: true,color: "yellow"}]
+tellraw @p [{text:"My Website: ",color:"white",bold:true,click_event:{action:"open_url",url:"https://hielkemaps.com"}},{text:"[LINK]",color:"blue",italic:true,click_event:{action:"open_url",url:"https://hielkemaps.com"},hover_event:{action:"show_text",value:{text:"","extra":[{text:"Click to visit!"}]}},bold:false}]
+tellraw @p [{text:"My YouTube: ",color:"aqua",bold:true},{text:"[LINK]",color:"blue",italic:true,click_event:{action:"open_url",url:"https://www.youtube.com/c/HielkeMinecraft"},hover_event:{action:"show_text",value:{text:"","extra":[{text:"Click to visit!"}]}},bold:false}]
+tellraw @p [{text:"My Discord: ",color:"white",bold:true},{text:"[LINK]",color:"blue",italic:true,click_event:{action:"open_url",url:"https://discord.gg/6RzKxbH"},hover_event:{action:"show_text",value:{text:"","extra":[{text:"Click to visit!"}]}},bold:false}]
+tellraw @p {text:"                                ",color:"yellow",strikethrough: true}

@@ -1,0 +1,2 @@
+execute if score #random value matches 1..7 run tellraw @a [{selector:"@s"},{text:" crashed into a minecart"}]
+execute if score #random value matches 8..15 run tellraw @a [{selector:"@s"},{text:" was run over by a minecart"}]

@@ -1,0 +1,19 @@
+{
+    "parent": "main:underground_city",
+    "display": {
+        "title":{text:"Redstone City",color:"yellow",bold:true},
+        "description": {text:"Visit the Redstone City in level 75",color:"white",bold:false},
+        "icon": {
+            "id": "minecraft:redstone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

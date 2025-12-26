@@ -1,0 +1,75 @@
+{
+  "main:root": {
+    "criteria": {
+      "root": "2025-12-24 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "main:easter_eggs/root": {
+    "criteria": {
+      "root": "2025-12-24 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "time:root": {
+    "criteria": {
+      "root": "2025-12-24 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "main:start": {
+    "criteria": {
+      "root": "2025-12-25 04:34:04 +0000"
+    },
+    "done": true
+  },
+  "main:easter_eggs/another_way": {
+    "criteria": {
+      "0": "2025-12-25 04:36:36 +0000"
+    },
+    "done": true
+  },
+  "main:level22_trap": {
+    "criteria": {
+      "0": "2025-12-25 05:57:43 +0000"
+    },
+    "done": true
+  },
+  "main:firstsnake": {
+    "criteria": {
+      "0": "2025-12-25 06:09:34 +0000"
+    },
+    "done": true
+  },
+  "main:lava": {
+    "criteria": {
+      "0": "2025-12-25 06:38:22 +0000"
+    },
+    "done": true
+  },
+  "main:50percent": {
+    "criteria": {
+      "elytra": "2025-12-25 07:21:02 +0000"
+    },
+    "done": true
+  },
+  "main:slime": {
+    "criteria": {
+      "0": "2025-12-26 04:48:20 +0000"
+    },
+    "done": true
+  },
+  "main:underground_city": {
+    "criteria": {
+      "0": "2025-12-26 04:07:42 +0000"
+    },
+    "done": true
+  },
+  "main:redstone_city": {
+    "criteria": {
+      "0": "2025-12-26 04:38:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}
